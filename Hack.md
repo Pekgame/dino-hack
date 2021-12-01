@@ -22,7 +22,7 @@ Runner.instance_.setSpeed(100)
 ### Jump Boost
 
 Paste this command and hit enter to jump higher.  
-(You can change 100 to any number you want for it to jump higher!)
+(You can change 10 to any number you want for it to jump higher!)
 
 ```js
 Runner.instance_.tRex.setJumpVelocity(10)
